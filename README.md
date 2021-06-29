@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Tommaso 👋
 
 <!--
 **heytdep/heytdep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a developer from 🇮🇹 with interests in:
+
+- **Deep Learning** :arrow_right: I'm currently focusing in learning everything about Time Series.
+- **Backend & API Development** :arrow_right: I like building Backends and APIs with Django, I've worked with both REST and GraphQL.
+- **Web Automation** :arrow_right: When possible using my knowledge with APIs, and when not, using Selenium.
+- **Security Research** :arrow_right: I've also had a good experience with Web/Mobile/API security research. That's because I sometimes enjoy doing Bug Bounties
