@@ -1,4 +1,4 @@
-### Hi there, I'm Tommaso 👋
+## Hi there, I'm Tommaso 👋
 
 <!--
 **heytdep/heytdep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,20 +43,20 @@ I've started writing about Programming on Medium in the end of 2020, after havin
 
 These are companies that acknowledged, and some also rewarded my Security research on their platforms
 
-- Google
-- Valve
-- Wickr
-- BBC
-- Dashlane
-- UIPath
-- Acronis
-- Basecamp
-- Via
-- Courier
-- Aiven
-- VMware
-- Slack
+- Google (acknowledged + rewarded)
+- Valve (acknowledged + rewarded)
+- Wickr (acknowledged + rewarded)
+- BBC (acknowledged + rewarded(swag))
+- Dashlane (acknowledged + rewarded)
+- UIPath (acknowledged + rewarded)
+- Acronis (acknowledged + rewarded)
+- Basecamp (acknowledged + rewarded)
+- Via (acknowledged + rewarded)
+- Courier (acknowledged)
+- Aiven (acknowledged)
+- VMware (acknowledged)
+- Slack (acknowledged)
 
 📫 Contact
 
-You can reach me anytime using [my mail](mailto:tommasodeponti@zohomail.eu)
+You can reach me anytime using [my mail](mailto:tommasodeponti@zohomail.eu). 
