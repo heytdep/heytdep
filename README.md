@@ -27,7 +27,7 @@ I'm a developer from 🇮🇹 with interests in:
 
 ### 🔭 Current Projects
 
-- Building an audience as a Technical (and soon Crypto) writer on my [Medium](https://tdep.medium.com). I've just passed 92K+ views and I'm aiming to the 100K milestone 🎯.
+- Building an audience as a Technical (and soon Crypto) writer on my [Medium](https://tdep.medium.com). I've just passed 92K+ views and I'm aiming to the 100K milestone 🎯. See more about my blog and projects [here](# My-Blog)
 
 ### Acknowledgments
 
