@@ -22,5 +22,9 @@ I'm a developer from 🇮🇹 with interests in:
 - 🤖 **Web Automation** &#8594; When possible using my knowledge with APIs, and when not, using Selenium.
 - 🐞 **Security Research** &#8594; I've also had a good experience with Web/Mobile/API security research. That's because I sometimes enjoy doing Bug Bounties. See the companies that acknowledged and rewarded my security research [here](#Acknowledgments)
 
+🌱 I've been learning from a while about code optimization and disassembly, and I still am
+
+
+
 ### Acknowledgments
 
