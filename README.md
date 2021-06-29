@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 I'm a developer from 🇮🇹 with interests in:
 
-- **Deep Learning** :arrow_right: I'm currently focusing in learning everything about Time Series.
-- **Backend & API Development** :arrow_right: I like building Backends and APIs with Django, I've worked with both REST and GraphQL.
-- **Web Automation** :arrow_right: When possible using my knowledge with APIs, and when not, using Selenium.
-- **Security Research** :arrow_right: I've also had a good experience with Web/Mobile/API security research. That's because I sometimes enjoy doing Bug Bounties
+- 🦾 **Deep Learning**  &#8594; I'm currently focusing in learning everything about Time Series.
+- 🕸 **Backend & API Development** &#8594; I like building Backends and APIs with Django, I've worked with both REST and GraphQL.
+- 🤖 **Web Automation** &#8594; When possible using my knowledge with APIs, and when not, using Selenium.
+- 🐞 **Security Research** &#8594; I've also had a good experience with Web/Mobile/API security research. That's because I sometimes enjoy doing Bug Bounties
+
