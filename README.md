@@ -28,3 +28,19 @@ I'm a developer from 🇮🇹 with interests in:
 
 ### Acknowledgments
 
+These are companies that acknowledged, and some also rewarded my Security research on their platforms
+
+- Google
+- Valve
+- Wickr
+- BBC
+- Dashlane
+- UIPath
+- Acronis
+- Basecamp
+- Via
+- Courier
+- Aiven
+- VMware
+- Slack
+
