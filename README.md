@@ -27,11 +27,14 @@ I'm a developer from 🇮🇹 with interests in:
 
 ### 🔭 Current Projects
 
-- Building an audience as a Technical (and soon Crypto) writer on my [Medium](https://tdep.medium.com). I've just reached 92K+ views and I'm aiming to the 100K milestone 🎯. See more about my blog and projects [here](#Blog)
+- Building an audience as a Technical (and soon Crypto) writer on my [Medium](https://tdep.medium.com). I've just reached 92K+ views and I'm aiming to the 100K milestone 🎯. See more about my blog and projects [here](#Blog).
+- Creating a *private* trading-related project that combines an API, a Backend, and an Automation mechanism.
 
 ### ✍️ Blog
 
-I've started writing about Programming on Medium in the end of 2020, after having quite a *great* I have not written seriously in months I decided to start writing again, and with quite *amazing* results I'd say. 
+I've started writing about Programming on Medium in the end of 2020, after having quite a *great* I have not written seriously in months I decided to start writing again, and with quite *amazing* results I'd say. On June 28 I reached more than 2K views in a single day, and the stats are promising. I would really appreciate if you took a look at it:
+
+[*read my writing*](https://tdep.medium.com).
 
 ### Acknowledgments
 
