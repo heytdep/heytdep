@@ -29,6 +29,9 @@ I'm a developer from 🇮🇹 with interests in:
 
 - Building an audience as a Technical (and soon Crypto) writer on my [Medium](https://tdep.medium.com). I've just reached 92K+ views and I'm aiming to the 100K milestone 🎯. See more about my blog and projects [here](#Blog).
 - Creating a *private* trading-related project that combines an API, a Backend, and an Automation mechanism.
+- Building a soon-publicly accessible API based on an automated bot.
+- Working on a Chart Analytics hybrid deep learning model that uses both a CNN and an LSTM + a sentiment analysis indicator
+- Writing and Collecting a series of Technical analysis on Bitcoin and other charts patterns which I intend to publish on Medium and also here
 
 ### ✍️ Blog
 
