@@ -27,7 +27,7 @@ I'm a developer from 🇮🇹 with interests in:
 
 ### 🔭  Current Projects
 
-- Building an audience as a Technical (and soon Crypto) writer on my [Medium](https://tdep.medium.com). I've just reached 92K+ views and I'm aiming to the 100K milestone  🎯. See more about my blog and projects [here](#Blog).
+- Building an audience as a Technical (and soon Crypto) writer on my [Medium](https://tdep.medium.com). I've just reached 94K+ views and I'm aiming to the 100K milestone  🎯. See more about my blog and projects [here](#Blog).
 - Creating a *private* trading-related project that combines an API, a Backend, and an Automation mechanism.
 - Building a soon-publicly accessible API based on an automated bot.
 - Working on a Chart Analytics hybrid deep learning model that uses both a CNN and an LSTM + a sentiment analysis indicator
@@ -57,6 +57,6 @@ These are companies that acknowledged, and some also rewarded my Security resear
 - VMware (acknowledged)
 - Slack (acknowledged)
 
-📫 Contact
+### 📫 Contact
 
 You can reach me anytime using [my mail](mailto:tommasodeponti@zohomail.eu). 
