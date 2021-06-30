@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a developer from 🇮🇹 with interests in:
+I'm a **developer** from 🇮🇹 with interests in:
 
 - 🦾  **Deep Learning**  &#8594; I'm currently focusing in learning everything about Time Series.
 - 🕸  **Backend & API Development** &#8594; I like building Backends and APIs with Django, I've worked with both REST and GraphQL.
