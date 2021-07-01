@@ -23,7 +23,7 @@ I'm a **developer** from 🇮🇹 with interests in:
 - 📈  **Cryptocurrencies** &#8594; I've been learning and still am to develop on the Network Cryptos provide. Currently on Stellar ⭐. Also, I'm learning and applying Technical Analysis of Chart patterns.
 - 🐞  **Security Research** &#8594; I've also had a good experience with Web/Mobile/API security research. That's because I sometimes enjoy doing Bug Bounties. See the companies that acknowledged and rewarded my security research [here](#Acknowledgments)
 
-🌱  I've been learning for a while about code optimization and disassembly, and I still am
+🌱  I've been learning for a while about code optimization and disassembly, and I still am.
 
 ### 🔭  Current Projects
 
