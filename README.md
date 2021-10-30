@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 I'm a **developer** from 🇮🇹 with interests in:
 
@@ -33,11 +33,11 @@ I'm a **developer** from 🇮🇹 with interests in:
 - Working on a Chart Analytics hybrid deep learning model that uses both a CNN and an LSTM + a sentiment analysis indicator
 - Writing and Collecting a series of Technical analysis on Bitcoin and other charts patterns which I intend to publish on Medium and also here
 
+-->
+
+### Developer, Stocks & Crypto Trader & Investor
+
 ### ✍️  Blog
-
-I've started writing about Programming on Medium in the end of 2020, after having quite a *great* I have not written seriously in months I decided to start writing again, and with quite *amazing* results I'd say. On June 28 I reached more than 2K views in a single day, and the stats are promising. Also, I've just reached 100K total views 🎯.
-
-I would really appreciate if you took a look at it:
 
 [*read my writing*](https://tdep.medium.com).
 
