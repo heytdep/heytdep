@@ -35,7 +35,8 @@ I'm a **developer** from 🇮🇹 with interests in:
 
 -->
 
-### Developer, Stocks & Crypto Trader & Investor
+#### Developer, Stocks & Crypto Trader & Investor
+
 
 ### ✍️  Blog
 
