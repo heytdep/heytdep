@@ -2,6 +2,9 @@
 
 Web3 Developer Building SmartArtists on Stellar
 
+<a href="#suhailkakar-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=suhailkakar&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Suhail Kakar" align="right" />
+</a>
 
 ### ✍️  Blog
 
