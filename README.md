@@ -1,6 +1,6 @@
 ## Hi there, I'm Tommaso 👋
 
-Web3 Developer Building DeFI on Stellar via SmartArtists
+Web3 Developer Building DeFI on Stellar via SmartArtists (releasing ALPHA soon)
 
 <a href="#heytdep-title">
   <img src="https://github-readme-stats.vercel.app/api?username=heytdep&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Tommaso De Ponti" />
