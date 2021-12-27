@@ -6,8 +6,7 @@ Web3 Developer Building DeFI on Stellar via SmartArtists (releasing ALPHA soon)
   <img src="https://github-readme-stats.vercel.app/api?username=heytdep&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Tommaso De Ponti" />
 </a>
 
-[![heytdep's github activity graph](https://activity-graph.herokuapp.com/graph?username=heytdep&theme=react-dark)](https://github.com/heytdep)
-
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 
 ### ✍️  Blog
@@ -35,3 +34,6 @@ These are companies that acknowledged, and some also rewarded my Security resear
 ### 📫 Contact
 
 You can reach me anytime using [my mail](mailto:tommasodeponti@zohomail.eu). 
+
+
+[![heytdep's github activity graph](https://activity-graph.herokuapp.com/graph?username=heytdep&theme=react-dark)](https://github.com/heytdep)
