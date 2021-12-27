@@ -11,6 +11,7 @@ Web3 Developer Building DeFI on Stellar via SmartArtists (releasing ALPHA soon)
 ### Tools & Languages I work with daily
 
 <code><img width="20" src="https://logowik.com/content/uploads/images/t_stellar-xlm9125.jpg"></code>
+<code><img width="20" src="https://user-images.githubusercontent.com/70587974/147472766-efb32446-a12e-4250-a71e-629ec3985aa5.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
