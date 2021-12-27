@@ -61,8 +61,10 @@ I've also done some bug bounty. These are companies that acknowledged, and some 
 
 ### 📫 Contact
 
-For talking about Smart Artists: [mail](mailto:tommy@smartartists.art).
-For talking about other things: [mail](mailto:tommasodeponti@zohomail.eu).
+- For talking about Smart Artists: [mail](mailto:tommy@smartartists.art).
+- For talking about other things: [mail](mailto:tommasodeponti@zohomail.eu).
+- [Discord]()
+- [Twitter](https://twitter.com/heytdep)
 
 <hr/>
 
