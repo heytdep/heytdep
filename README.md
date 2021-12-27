@@ -21,20 +21,23 @@ Web3 Developer Building DeFI on Stellar with Smart Artists (releasing ALPHA soon
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img width="20" src="https://www.cloudflare.com/resources/images/slt3lc6tev37/CHOl0sUhrumCxOXfRotGt/9bf83d4ca877bb8f0f917c8d379a84ce/cloudflare-icon-color_3x.png"></code>
 
-
+<hr/>
 
 ### ✍️  Blog
 
 I write about price action and general programming. I'll soon start writing also about my experience in web3 with Stellar.
 
-[read my writing](https://tdep.medium.com).
+[Read my writing](https://tdep.medium.com).
 
+<hr/>
 
 ### Twitter
 
 I sometimes post about cryptos I'm buying, and share the progress regarding Smart Artists.
 
-[go follow me](https://twitter.com/heytdep)
+[Go follow me](https://twitter.com/heytdep).
+
+<hr/>
 
 ### Security Finidngs Acknowledgments
 
@@ -54,10 +57,13 @@ I've also done some bug bounty. These are companies that acknowledged, and some 
 - VMware (acknowledged)
 - Slack (acknowledged)
 
+<hr/>
+
 ### 📫 Contact
 
 For talking about Smart Artists: [mail](mailto:tommy@smartartists.art).
 For talking about other things: [mail](mailto:tommasodeponti@zohomail.eu).
 
+<hr/>
 
 [![heytdep's github activity graph](https://activity-graph.herokuapp.com/graph?username=heytdep&theme=react-dark)](https://github.com/heytdep)
