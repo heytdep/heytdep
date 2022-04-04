@@ -1,6 +1,12 @@
 ## Hi there, I'm Tommaso 👋
 
-Web3 Developer Building DeFI on Stellar with Smart Artists (releasing ALPHA soon)
+Developer currently Building on the Stellar blockchain.
+
+#### Current areas of interest:
+- Decentralised finance
+- Innovative governance models
+- Integrating blockchain technology on everyday apps
+- Financial machine learning
 
 <a href="#heytdep-title">
   <img src="https://github-readme-stats.vercel.app/api?username=heytdep&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Tommaso De Ponti" />
