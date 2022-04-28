@@ -1,12 +1,18 @@
-## Hi there, I'm Tommaso 👋
+## Hi there, I'm Tommaso 👋 
 
-Developer currently Building on the Stellar blockchain.
+I'm a Fullstack Developer currently Building on the Stellar blockchain with 5 years of experience in Software Development (though I created this github account only in 2020).
 
 #### Current areas of interest:
 - Decentralised finance
-- Innovative governance models
+- Designing and Implementing Innovative governance models
 - Integrating blockchain technology on everyday apps
 - Financial machine learning
+- Blockchain-based Encryption mechanisms
+
+
+### I'm Open For:
+Currently, I am only open to small freelance tasks since I am working almost full-time on some personal projects I intend to scale and bring together in a single corporation. (I will publish information about these project on June 6th once I have hopefully submitted them to the SCF)
+
 
 <a href="#heytdep-title">
   <img src="https://github-readme-stats.vercel.app/api?username=heytdep&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Tommaso De Ponti" />
