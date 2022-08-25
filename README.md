@@ -7,6 +7,7 @@ I'm a developer that knows his way around front-end development in Svelte, but I
 - Decentralized financial instruments
 - SaaS
 - WebAssembly
+- zero knowledge proofs
 
 I'm also curious about FinML, but don't work on the field often. 
 
