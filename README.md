@@ -9,18 +9,17 @@ I'm a developer that knows his way around front-end development in Svelte, but I
 - WebAssembly
 - zero knowledge proofs
 
-I'm also curious about FinML, but don't work on the field often. 
+I'm also curious about FinML, but I never got to work concretely on the field. 
 
 #### Used Languages
-I am mostly workin with `Javascript` and `Rust`. I also know `Python` and some `WASM text format`, but don't use them often. I should also mention that I use `.wat` only use for researching and debugging WASM (understanding it's behaviour in terms of memory, locate optimizable parts, avoid vulnerabilities).
+I am mostly working with `Rust` and `Javascript`, but lately I'd say 90% of my code has been Rust. I also know `Python` and I've played around with `Elixir`, but I rarely use theem.
 
 
-#### Currently Working On
-I'm always available for freelance tasks (mostly on the Stellar Network), but my primary focus is currently on building products for [[Xycloo]](https://xycloo.com/). I'm currently building [[AgoraBet]](https://agorabet.xycloo.com), a decentralized and incredibly efficient prediction market, [[sTeX]](https://stex.xycloo.com/), a cloud-based LaTeX editor with a google docs alike UX and UI, and a decentralized marketplace on the Stellar Network for tokenised documents that will be integrated within sTeX. At Xycloo, we are also prototyping the creation of decentralized financial instruments on the Stellar Network, but given the fact that Soroban smart contracts are not even on the testnet yet, we have decided not to announce those project(s) yet.
+#### Currently 🥬
+I may be up to freelance tasks (mostly on the Stellar Network), but my primary focus is currently building stuff over at [Xycloo](https://xycloo.com/). 
+Given the potential I think the [Stellar Network](https://stellar.org/) has in the near future with the release of [Soroban](https://soroban.stellar.org/), I've been working closely with Soroban smart contracts since the August early release. With Soroban now being in testing phase on Futurenet, I've started submitting smart contract examples, guides and tools, which led to create Xycloo's [soroban-guide](https://github.com/xycloo/soroban-guide) and [soroban-explorer](https://github.com/xycloo/soroban-explorer). These submissions and interests in Soroban also eventually led me to be part of the team building Soroban's [Stellar Quest](https://quest.stellar.org), which is an excellent place to start your Soroban journey (aside from the docs).
 
-Besides projects, I'm constantly doing research in the field of WASM security (Rust is safer!) and actively working with the first early release of Stellar's smart contracts: Soroban.
-
-I have also a Medium blog with about `1.4K` followers, go check it <https://tdep.medium.com/>.
+Besides playing with smart contracts, at Xycloo we have built proof-of-concept apps such as [Tmyxer](https://github.com/xycloo/tmyxer), and are building [sTeX](https://stex.xycloo.com/).
 
 #### Security Finidngs Acknowledgments
 
