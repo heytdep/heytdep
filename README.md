@@ -1,19 +1,11 @@
 ## Hi there, I'm Tommaso
 
-I'm a developer that knows his way around front-end development in Svelte, but I'm mostly working on APIs, apps on the Stellar Network, WASM, and decentralized finance.
-
-#### Current areas of interest:
+#### Areas of interest:
 - Distributed Ledger Technology
 - Decentralized financial instruments
 - SaaS
 - WebAssembly
-- zero knowledge proofs
-
-I'm also curious about FinML, but I never got to work concretely on the field. 
-
-#### Used Languages
-I am mostly working with `Rust` and `Javascript`, but lately I'd say 90% of my code has been Rust. I also know `Python` and I've played around with `Elixir`, but I rarely use theem.
-
+- Zero knowledge proofs
 
 #### Currently 🥬
 I may be up to freelance tasks (mostly on the Stellar Network), but my primary focus is currently building stuff over at [Xycloo](https://xycloo.com/). 
@@ -23,4 +15,4 @@ Besides playing with smart contracts, at Xycloo we have built proof-of-concept a
 
 #### Security Finidngs Acknowledgments
 
-I've also done some bug bounty. These are companies that acknowledged, and some also rewarded my research on their code: `Google` (acknowledged + rewarded), `Valve` (acknowledged + rewarded), `Wickr` (acknowledged + rewarded), `BBC` (acknowledged + rewarded(swag)), `Dashlane` (acknowledged + rewarded), `UIPath` (acknowledged + rewarded), `Acronis` (acknowledged + rewarded), `Basecamp` (acknowledged + rewarded), `Via` (acknowledged + rewarded), `Courier` (acknowledged, duplicate)
+I've also done some bug bounty. These are companies that acknowledged and rewarded me: `Google` (acknowledged + rewarded), `Valve` (acknowledged + rewarded), `Wickr` (acknowledged + rewarded), `BBC` (acknowledged + rewarded(swag)), `Dashlane` (acknowledged + rewarded), `UIPath` (acknowledged + rewarded), `Acronis` (acknowledged + rewarded), `Basecamp` (acknowledged + rewarded), `Via` (acknowledged + rewarded), `Courier` (acknowledged, duplicate)
