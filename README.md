@@ -1,4 +1,4 @@
-## Hi there, I'm Tommaso
+<!--## Hi there, I'm Tommaso
 
 #### Areas of interest:
 - Distributed Ledger Technology
@@ -15,4 +15,4 @@ Besides playing with smart contracts, at Xycloo we have built proof-of-concept a
 
 #### Security Finidngs Acknowledgments
 
-I've also done some bug bounty. These are companies that acknowledged and rewarded me: `Google` (acknowledged + rewarded), `Valve` (acknowledged + rewarded), `Wickr` (acknowledged + rewarded), `BBC` (acknowledged + rewarded(swag)), `Dashlane` (acknowledged + rewarded), `UIPath` (acknowledged + rewarded), `Acronis` (acknowledged + rewarded), `Basecamp` (acknowledged + rewarded), `Via` (acknowledged + rewarded), `Courier` (acknowledged, duplicate)
+I've also done some bug bounty. These are companies that acknowledged and rewarded me: `Google` (acknowledged + rewarded), `Valve` (acknowledged + rewarded), `Wickr` (acknowledged + rewarded), `BBC` (acknowledged + rewarded(swag)), `Dashlane` (acknowledged + rewarded), `UIPath` (acknowledged + rewarded), `Acronis` (acknowledged + rewarded), `Basecamp` (acknowledged + rewarded), `Via` (acknowledged + rewarded), `Courier` (acknowledged, duplicate)-->
