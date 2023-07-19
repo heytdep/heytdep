@@ -1,4 +1,4 @@
-Building on Stellar at [xyclooLabs](https://github.com/xycloo/) and part of the Stellar Quest Soroban team.
+Building on Stellar at [xyclooLabs](https://github.com/xycloo/) and part of the Stellar devrel team (soroban-focused).
 
 <!--## Hi there, I'm Tommaso
 
