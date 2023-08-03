@@ -1,4 +1,6 @@
-Building on Stellar at [xyclooLabs](https://github.com/xycloo/) and part of the Stellar devrel team (soroban-focused).
+Building on Stellar at [xyclooLabs](https://github.com/xycloo/) and part of the Stellar devrel team (for Soroban).
+
+Currently learning Zig 🌳
 
 <!--## Hi there, I'm Tommaso
 
